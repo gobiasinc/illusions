@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="240" viewBox="0 0 420 240">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="420" height="240" fill="#FFCC5C"/>
+    <g transform="translate(-28 196)">
+      <rect width="68" height="35" x="78" fill="#FFE57C"/>
+      <rect width="68" height="35" fill="#FFE57C"/>
+      <rect width="68" height="35" x="156" fill="#FFE57C"/>
+      <rect width="68" height="35" x="234" fill="#FFE57C"/>
+      <rect width="137" height="35" x="312" fill="#FFE57C"/>
+      <rect width="34" height="35" x="173" fill="#FFEFAD"/>
+      <rect width="34" height="18" x="78" y="17" fill="#FFEFAD"/>
+      <rect width="68" height="18" x="234" fill="#FFEFAD"/>
+      <rect width="104" height="12" x="328" y="12" fill="#FFEFAD"/>
+    </g>
+    <rect width="256" height="60" x="70" y="120" fill="#FF6F68"/>
+    <rect width="161" height="60" x="-101" y="120" fill="#FF6F68" opacity=".244"/>
+    <rect width="161" height="60" x="336" y="120" fill="#FF6F68" opacity=".244"/>
+    <rect width="146" height="60" x="70" y="60" fill="#FFEFAD"/>
+    <text fill="#FF6F68" font-family="Arial-BoldMT, Arial" font-size="36" font-weight="bold">
+      <tspan x="94.483" y="103">Learn</tspan>
+    </text>
+    <text fill="#FFF" font-family="Arial-BoldMT, Arial" font-size="36" font-weight="bold">
+      <tspan x="88" y="163">CSS Flexbox</tspan>
+    </text>
+  </g>
+</svg>
