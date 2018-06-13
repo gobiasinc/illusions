@@ -1,2 +1,3 @@
-# illusionsss
-Concepts for new illusions
+# illusions
+
+This is the main repository for our organization.
